@@ -180,3 +180,7 @@ if __name__ == "__main__":
     with i3pie.Connection() as i3:
         main(i3)
 ```
+
+## License
+
+See [LICENSE.txt](LICENSE.txt).
